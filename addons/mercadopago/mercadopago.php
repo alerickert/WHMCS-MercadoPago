@@ -1,5 +1,5 @@
 <?php
-require_once(__DIR__ . "/../modules/gateways/MercadoPago_Lib/mercadopago_config.php");
+require_once("./../modules/gateways/MercadoPago_Lib/mercadopago_config.php");
 if (!defined("WHMCS")) {
     exit("This file cannot be accessed directly");
 }
